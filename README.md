@@ -33,9 +33,9 @@ Bu talimatlar, projenin yerel makinenizde çalıştırılmasını sağlayacaktı
     yarn install
     ```
 
-4. Bir `.env` dosyası oluşturun ve Unsplash API anahtarınızı ekleyin:
+4.  `imageSearchService` dosyası içerisinde Unsplash API anahtarınızı ekleyin:
     ```bash
-    REACT_APP_UNSPLASH_ACCESS_KEY=your_access_key_here
+    Authorization:your_access_key_here
     ```
 
 ### Çalıştırma
