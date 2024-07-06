@@ -104,7 +104,7 @@ Katkılarınızı bekliyoruz! Lütfen önce bir konu açarak neyi değiştirmek 
 
 ## Lisans
 
-Bu proje MIT Lisansı altında lisanslanmıştır - daha fazla bilgi için `LICENSE` dosyasına bakın.
+Bu projeyi geliştirebilirsiniz.
 
 ## Teşekkür
 
